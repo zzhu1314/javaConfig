@@ -1,7 +1,0 @@
-apple
-<<<<<<< HEAD
-maked by master
-=======
-master create apples
-hot_fix create apples
->>>>>>> hot_fix
